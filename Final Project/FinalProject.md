@@ -1,5 +1,6 @@
 # <p align="center"><ins> Final Project </ins></p>
 ## <p align="center"><ins> The Image Processing ToolBox </ins></p> 
+### Written by: Connor Hsuan, Matthew Kemenosh, Miguel Rodriguez, and Deep Shah
 ```{python}
 #Libraries
 from google.colab import files
